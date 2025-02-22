@@ -1,0 +1,106 @@
+Lucas Bracher – Résumé
+Mobile Phone: +55 (32) 99130-3112
+Email: lucasbracher@gmail.com
+Github: https://github.com/lucasbracher/
+LinkedIn: https://www.linkedin.com/in/lucasbracher/
+
+
+Personal Profile
+
+15+ years of experience in software development and problem-solving. Bachelor in Computer Engineering from State University of Campinas (Unicamp), a top 20% university according to Higher Education Times. Proven experience with large companies and international projects in Belgium, Italy and the United States, including development of scalable solutions, data processing and artificial intelligence. Fluent in English, Portuguese and Italian and with extensive knowledge of cutting-edge technologies. 
+
+
+Education
+2001-2008 : BSc in Computer Engineering - State University of Campinas, Brazil
+1995-1997: Assistant Technician in Data Processing - CTU, Federal University of Juiz de Fora, Brazil
+
+Employment History
+Aug 2024 - Feb 2025
+ProFUSION, Campinas, Brazil
+Senior Software Engineer
+Achievements: development and maintenance of projects for the Linux Foundation and Pfizer.
+Technologies: Django, AWS Lambda, AWS Sagemaker, React.
+
+Nov 2023 - Aug 2024
+Cogni2, São Paulo, Brazil
+Software Engineer / Python Backend Developer + LLM
+Achievements: implementation of a low-latency single source of truth for a service system
+using AI, increased prompt agility using rule engine, decreased service latency using asyn-
+chronous calls.
+Technologies: Django, OpenAI, Azure.
+
+May 2022 - Nov 2022
+Medsec LLC, Miami, FL
+Full Stack Python Development
+Achievements: Implementation of a low-latency PDF parsing system using rules in order to
+extract data from medical equipment.
+Technologies: Django, DRF (Django REST Framework), Javascript, Bootstrap, Elasticsearch.
+
+Mar 2022 - May 2022
+Ovizio Image Systems NV/SA, Brussels, Belgium
+Python Fullstack Developer (temporary contract)
+Achievements: general maintenance of frontend and PDF generation systems.
+Technologies: Django, Dash, pdflatex and other Python tools.
+
+Oct 2021 - Feb 2022
+eRowz NV/SA, Enghien, Belgium (defunct)
+Fullstack Developer (temporary contract)
+Achievements: implementation of a named entity recognition system to facilitate the extraction of product data to be indexed.
+Technologies: Linux, Python, Django, Flask, Scrapy, JavaScript, Vue.js, Docker, PostgreSQL,
+MySQL, OpenCV, MongoDB, Scrapy.
+
+Jan 2020 - Sep 2021
+Space Applications NV/SA, Brussels Area, Belgium
+Software Developer
+Achievements: improvements to the Celery communication system with PostgreSQL and Rab-
+bitMQ, general maintenance of ASB suite.
+Technologies: Linux, Python, Django, JavaScript, Vue.js, Docker, PostgreSQL, RabbitMQ, Cel-
+ery, Sphinx, LaTeX..
+
+Dec 2019
+AB InBev, Leuven, Belgium
+Freelance Consultancy / VBA Development
+Achievements: Improvement of the quality verification system for containers on can, bottle
+and keg lines for all beverages distributed in Belgium and Germany.
+Technologies: VBA, Advanced Excel.
+
+Aug 2013 - Sep 2019
+Bracher Systems (own business), Juiz de Fora, Brazil
+Software Engineer / Developer
+Achievements: acquisition of knowledge on various platforms, delivery of projects to clients.
+Technologies: Bash Script, Python, PHP, MySQL, Node.js, Javascript, JQuery, CSS, HTML.
+
+Apr 2012 - Jul 2013
+Nubilaria Srl, Novara, Italy
+Software Engineer
+Achievements: implementation of automatic search and loading of bank data from bank
+branches in countries where such information is updated online.
+Technologies: Bash Script, Python, PHP, MySQL Cluster.
+
+Mar 2009 - Nov 2011
+Toptec Ltda., Americana, Brazil
+Software Engineer / Developer
+Achievements: creation of 6 direct jobs and approximately 50 indirect jobs; specification, de-
+velopment and testing of a full GIS suite intended for electrical network data gathering; esti-
+mated budget: BRL 3 million (about US$ 1.2 million on today’s value).
+Technologies: C#, PostgreSQL com PostGIS, Delphi, SQLite, .NET Compact 2.0, .NET 3.0.
+
+
+Other Info
+
+Languages
+Fluency - English, Italian, Portuguese
+Advanced - French (reads, speaks and writes)
+Learning - German
+
+Technologies
+Backend - Django, Django REST Framework, PHP, NodeJS, Flask, FastAPI
+Frontend - HTML, CSS, Vue.js, React, Bootstrap, Dash
+Programming Languages - Python, PHP, Golang, C, C++, C#, JavaScript, Clojure, Golang, VBA,
+Delphi
+Databases - PostgreSQL, PostGIS, MySQL, MongoDB
+Test - pytest, Selenium
+Operating Systems - Windows, Linux, MacOS
+Other - AWS (Lambda, Rekognition, SageMaker), LLMs (AzureAI, OpenAI), ElasticSearch,
+pdflatex, LaTeX, OpenCV, Scrapy, Bash, Docker, RabbitMQ, Celery, git, .NET Compact
+
