@@ -1,4 +1,4 @@
-all: ResumeLucasBracher_en-US.pdf ResumeLucasBracher_pt-BR.pdf clean
+all: ResumeLucasBracher_en-US.pdf ResumeLucasBracher_pt-BR.pdf ResumeLucasBracher_en-US.pdf ResumeLucasBracher_pt-BR.pdf
 
 ResumeLucasBracher_en-US.pdf: ResumeLucasBracher_en-US.tex
 	xelatex ResumeLucasBracher_en-US.tex
