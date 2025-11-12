@@ -1,0 +1,356 @@
+{
+   "@context":"[https://schema.org](https://schema.org)",
+   "@type":"Person",
+   "name":"Lucas Bracher",
+   "alternateName":"Lucas Machado Bracher",
+   "jobTitle":"Software Engineer, Solution Finder",
+   "email":"mailto:lucasbracher@gmail.com",
+   "telephone":"+55-32-99130-3112",
+   "url":"https://github.com/lucasbracher",
+   "sameAs":[
+      "https://github.com/lucasbracher/",
+      "https://www.linkedin.com/in/lucasbracher/"
+   ],
+   "knowsLanguage":[
+      {
+         "@type":"Language",
+         "name":"English",
+         "proficiencyLevel":"Fluent"
+      },
+      {
+         "@type":"Language",
+         "name":"Portuguese",
+         "proficiencyLevel":"Fluent"
+      },
+      {
+         "@type":"Language",
+         "name":"Italian",
+         "proficiencyLevel":"Fluent"
+      },
+      {
+         "@type":"Language",
+         "name":"French",
+         "proficiencyLevel":"Advanced"
+      },
+      {
+         "@type":"Language",
+         "name":"German",
+         "proficiencyLevel":"Learning"
+      }
+   ],
+   "alumniOf":[
+      {
+         "@type":"CollegeOrUniversity",
+         "name":"State University of Campinas (Unicamp)",
+         "url":"https://ic.unicamp.br/en/graduacao/engenharia-da-computacao/",
+         "degree":"BSc in Computer Engineering",
+         "sameAs":"https://www.sg.unicamp.br/rd/consultar-situacao-de-diplomas/papel?nome=Lucas+Machado+Bracher"
+      },
+      {
+         "@type":"CollegeOrUniversity",
+         "name":"CTU, Federal University of Juiz de Fora",
+         "url":"https://sig.ifsudestemg.edu.br/sigaa/public/curso/portal.jsf?lc=en_US&id=1259922&nivel=T",
+         "degree":"Assistant Technician in Data Processing"
+      }
+   ],
+   "hasOccupation":{
+      "@type":"Occupation",
+      "name":"Software Engineer",
+      "skills":{
+         "proficient":[
+            "Delphi",
+            "Django",
+            "Django REST Framework",
+            "Docker",
+            "Git",
+            "Linux",
+            "MySQL",
+            "PostgreSQL",
+            "Python"
+         ],
+         "intermediate":[
+            "AWS (Lambda, Rekognition, SageMaker, API Gateway, S3, RDS)",
+            "Airflow",
+            "Azure (Functions, Machine Learning)",
+            "C",
+            "C++",
+            "C#",
+            "CSS",
+            "EDA",
+            "ETL",
+            "ElasticSearch",
+            "FastAPI",
+            "Flask",
+            "GCP (Functions, Run)",
+            "HTML",
+            "JavaScript",
+            "LLMs (AzureAI, OpenAI)",
+            "MacOS",
+            "NodeJS",
+            "Numpy",
+            "OpenCV",
+            "PHP",
+            "PLY",
+            "Pandas",
+            "PostGIS",
+            "Scrapy",
+            "VBA",
+            "Vue.js",
+            "Redis"
+         ],
+         "beginner":[
+            "Celery",
+            "Clojure",
+            "Dash",
+            "Golang",
+            "Jenkins",
+            "MongoDB",
+            "PySpark",
+            "pytest",
+            "RabbitMQ",
+            "React",
+            "Selenium"
+         ]
+      }
+   },
+   "worksFor":[
+      {
+         "@type":"Organization",
+         "name":"Crypto ISAC LLC",
+         "url":"https://www.cryptoisac.org/",
+         "address":{
+            "@type":"PostalAddress",
+            "addressLocality":"Miami",
+            "addressCountry":"USA"
+         },
+         "jobTitle":"Senior Software Engineer",
+         "startDate":"2025-03",
+         "description":"Development and maintenance of internal projects for managing cyber threat data from members and partners.",
+         "skills":[
+            "Django",
+            "Azure",
+            "Celery",
+            "STIX/TAXII"
+         ]
+      },
+      {
+         "@type":"Organization",
+         "name":"ProFUSION",
+         "url":"https://profusion.mobi/index-en.html",
+         "address":{
+            "@type":"PostalAddress",
+            "addressLocality":"Campinas",
+            "addressCountry":"Brazil"
+         },
+         "jobTitle":"Senior Software Engineer",
+         "startDate":"2024-08",
+         "endDate":"2025-02",
+         "description":"Development and maintenance of projects for the Linux Foundation and Pfizer.",
+         "skills":[
+            "Django",
+            "AWS Lambda",
+            "AWS Sagemaker",
+            "React"
+         ]
+      },
+      {
+         "@type":"Organization",
+         "name":"Cogni2",
+         "url":"https://cogni2.com/",
+         "address":{
+            "@type":"PostalAddress",
+            "addressLocality":"São Paulo",
+            "addressCountry":"Brazil"
+         },
+         "jobTitle":"Software Engineer / Python Backend Developer + LLM",
+         "startDate":"2023-11",
+         "endDate":"2024-08",
+         "description":"Implemented AI-driven single source of truth and improved system latency using async calls.",
+         "skills":[
+            "Django",
+            "OpenAI",
+            "Azure"
+         ]
+      },
+      {
+         "@type":"Organization",
+         "name":"Medsec LLC",
+         "url":"https://medsec.com/",
+         "address":{
+            "@type":"PostalAddress",
+            "addressLocality":"Miami",
+            "addressRegion":"FL",
+            "addressCountry":"USA"
+         },
+         "jobTitle":"Full Stack Python Developer",
+         "startDate":"2022-05",
+         "endDate":"2022-11",
+         "description":"Developed low-latency PDF parsing system for data extraction from medical equipment.",
+         "skills":[
+            "Django",
+            "DRF",
+            "JavaScript",
+            "Bootstrap",
+            "Elasticsearch"
+         ]
+      },
+      {
+         "@type":"Organization",
+         "name":"Ovizio Image Systems NV/SA",
+         "url":"https://ovizio.com/",
+         "address":{
+            "@type":"PostalAddress",
+            "addressLocality":"Brussels",
+            "addressCountry":"Belgium"
+         },
+         "jobTitle":"Python Fullstack Developer (temporary contract)",
+         "startDate":"2022-03",
+         "endDate":"2022-05",
+         "description":"General maintenance of frontend and PDF generation systems.",
+         "skills":[
+            "Django",
+            "Dash",
+            "pdflatex"
+         ]
+      },
+      {
+         "@type":"Organization",
+         "name":"eRowz NV/SA (defunct)",
+         "url":"https://erowz.com/",
+         "address":{
+            "@type":"PostalAddress",
+            "addressLocality":"Enghien",
+            "addressCountry":"Belgium"
+         },
+         "jobTitle":"Fullstack Developer (temporary contract)",
+         "startDate":"2021-10",
+         "endDate":"2022-02",
+         "description":"Developed named entity recognition system to extract product data for indexing.",
+         "skills":[
+            "Linux",
+            "Python",
+            "Django",
+            "Flask",
+            "Scrapy",
+            "JavaScript",
+            "Vue.js",
+            "Docker",
+            "PostgreSQL",
+            "MySQL",
+            "MongoDB",
+            "OpenCV"
+         ]
+      },
+      {
+         "@type":"Organization",
+         "name":"Space Applications NV/SA",
+         "url":"https://www.spaceapplications.com/products/automated-service-builder-asb",
+         "address":{
+            "@type":"PostalAddress",
+            "addressLocality":"Brussels Area",
+            "addressCountry":"Belgium"
+         },
+         "jobTitle":"Software Engineer",
+         "startDate":"2020-01",
+         "endDate":"2021-09",
+         "description":"Improved Celery communication with PostgreSQL and RabbitMQ; maintained ASB suite.",
+         "skills":[
+            "Linux",
+            "Python",
+            "Django",
+            "JavaScript",
+            "Vue.js",
+            "Docker",
+            "PostgreSQL",
+            "RabbitMQ",
+            "Celery"
+         ]
+      },
+      {
+         "@type":"Organization",
+         "name":"AB InBev",
+         "url":"https://www.ab-inbev.com/",
+         "address":{
+            "@type":"PostalAddress",
+            "addressLocality":"Leuven",
+            "addressCountry":"Belgium"
+         },
+         "jobTitle":"Freelance Consultant / VBA Developer",
+         "startDate":"2019-12",
+         "description":"Improved quality verification system for packaging lines in Belgium and Germany.",
+         "skills":[
+            "VBA",
+            "Advanced Excel"
+         ]
+      },
+      {
+         "@type":"Organization",
+         "name":"Bracher Systems (own business)",
+         "address":{
+            "@type":"PostalAddress",
+            "addressLocality":"Juiz de Fora",
+            "addressCountry":"Brazil"
+         },
+         "jobTitle":"Software Engineer / Developer",
+         "startDate":"2013-08",
+         "endDate":"2019-09",
+         "description":"Delivered software projects to clients on multiple platforms.",
+         "skills":[
+            "Bash Script",
+            "Python",
+            "PHP",
+            "MySQL",
+            "Node.js",
+            "JavaScript",
+            "JQuery",
+            "C++",
+            "HTML",
+            "CSS",
+            "Embedded LPC2148"
+         ]
+      },
+      {
+         "@type":"Organization",
+         "name":"Nubilaria Srl",
+         "url":"https://nubilaria.com/",
+         "address":{
+            "@type":"PostalAddress",
+            "addressLocality":"Novara",
+            "addressCountry":"Italy"
+         },
+         "jobTitle":"Software Engineer",
+         "startDate":"2012-04",
+         "endDate":"2013-07",
+         "description":"Developed automatic search and loading of online bank data.",
+         "skills":[
+            "Bash Script",
+            "Python",
+            "PHP",
+            "MySQL Cluster"
+         ]
+      },
+      {
+         "@type":"Organization",
+         "name":"Toptec Ltda.",
+         "address":{
+            "@type":"PostalAddress",
+            "addressLocality":"Americana",
+            "addressCountry":"Brazil"
+         },
+         "jobTitle":"Software Engineer / Developer",
+         "startDate":"2009-03",
+         "endDate":"2011-11",
+         "description":"Developed GIS suite for electrical network data gathering, creating direct and indirect jobs.",
+         "skills":[
+            "C#",
+            "PostgreSQL",
+            "PostGIS",
+            "Delphi",
+            "SQLite",
+            ".NET Compact 2.0",
+            ".NET 3.0"
+         ]
+      }
+   ],
+   "description":"Software engineer with 15+ years of experience in scalable solutions, data processing, and artificial intelligence. Fluent in English, Portuguese, and Italian, with international project experience in Belgium, Italy, and the United States."
+}
